@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F47851A1-C610-45C1-8DCF-9A47CFC0470E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenCL Fractal Basics</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FB4AD18F-C0D5-445B-AD2D-88E76317EC78</key>
+		<string>https://github.com/programmingthomas/OpenCL-Fractal-Basics.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OpenCL Fractal Basics/OpenCL Fractal Basics.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FB4AD18F-C0D5-445B-AD2D-88E76317EC78</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/programmingthomas/OpenCL-Fractal-Basics.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FB4AD18F-C0D5-445B-AD2D-88E76317EC78</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FB4AD18F-C0D5-445B-AD2D-88E76317EC78</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenCL-Fractal-Basics</string>
+		</dict>
+	</array>
+</dict>
+</plist>
